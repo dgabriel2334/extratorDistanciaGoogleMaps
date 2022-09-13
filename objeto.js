@@ -1,5 +1,9 @@
 const puppeteer = require("puppeteer");
 
+//nas proximas duas linhas abaixo estou dizendo até quantas requisições essa api pode ter
+require('events').EventEmitter.prototype._maxListeners = 70;
+require('events').defaultMaxListeners = 70;
+//fim
 async function start(cidadeAtual, enderecoAtual, cidadeDestino, enderecoDestino) {
 
   try {
