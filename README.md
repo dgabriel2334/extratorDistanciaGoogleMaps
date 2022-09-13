@@ -1,5 +1,4 @@
-# extratorGoogleMaps
-Extrator de quilometragem do Google Maps
+# Extrator de distância direto do Google Maps
 
 O google atualmente cobra por consultas para obter distância em km de um ponto ao outro, com essa ferramenta você poderá fazer isso de graça!
 
