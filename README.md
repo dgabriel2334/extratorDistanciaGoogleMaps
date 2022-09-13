@@ -28,5 +28,6 @@ Espero que essa ferramenta seja útil para você!
 
 Contribua com melhorias!
 
-Deixarei no código também a collection do postman para testes.
+Deixarei também a collection do postman para testes.
 
+https://www.getpostman.com/collections/41d0ed1f24b34d8aaa5d
